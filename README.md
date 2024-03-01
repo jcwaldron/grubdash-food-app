@@ -3,7 +3,7 @@
 
 A food ordering app project to demonstrate skills including RESTful APIs, routing, Knex, databases, and more.
 
-You can see the deployed project here: 
+You can see the deployed project here: https://grubdash-food-app.onrender.com 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-c-waldron/)
 
