@@ -10,45 +10,45 @@ You can see the deployed project here:
 
 ## API Endpoints
 
-### 1. DISHES
-- GET
+### DISHES
+1. GET
 - **URL**: `/dishes`
 - **Description**: Retrieves a list of dishes available.
 
-- POST
+2. POST
 - **URL**: `/dishes`
 - **Description**: Creates a new dish.
 
 
-### 2. DISHES/:dishId
-- GET
+### DISHES/:dishId
+1. GET
 - **URL**: `/dishes/:dishId`
 - **Description**: Retrieves the listing for a specific dish.
 
-- PUT
+2. PUT
 - **URL**: `/dishes/:dishId`
 - **Description**: Updates the information for a given dish.
 
-### 3. ORDERS
-- GET
+### ORDERS
+1. GET
 - **URL**: `/orders`
 - **Description**: Retrieves a list of orders.
 
-- POST
+2.  POST
 - **URL**: `/orders`
 - **Description**: Creates a new order.
 
 
-### 4. ORDERS/:orderId
-- GET
+### ORDERS/:orderId
+1. GET
 - **URL**: `/orders/:orderId`
 - **Description**: Retrieves a specific order based on ID.
 
-- PUT
+2. PUT
 - **URL**: `/orders/:orderId`
 - **Description**: Updates the information for a given order.
 
-- DELETE
+3. DELETE
 - **URL**: `/orders/:orderId`
 - **Description**: Deletes an order by order ID.
 ## Run Locally
